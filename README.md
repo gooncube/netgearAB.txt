@@ -1,0 +1,1 @@
+netgearAB.txt is intended as a more comprehensive wordlist compared to some smaller wordlists. netgearAB.txt likely is far less efficient than others such as christoper-pace/NETGEAR-WiFi-Wordlist, but it has a higher chance of success.
